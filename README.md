@@ -8,7 +8,7 @@ De cada usuario se deberá capturar la siguientes información: primer nombre, s
 nombres, primer apellido, segundo apellido, número de documento, dirección, número de
 celular, nombre de usuario, contraseña y estado del usuario (activo o inactivo).
 
-####Condiciones generales del programa:
+## Condiciones generales del programa:
 
 1. Se debe validar que no se pueda ingresar campos vacios en la base de datos.
 
